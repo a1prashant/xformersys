@@ -42,3 +42,5 @@ Testing:
 1 sends data
 2 transforms
 3 receives transformed data
+
+TODO: DO ANOTHER PROJECT OF SAME WITH ROS!
